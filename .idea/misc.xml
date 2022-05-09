@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/1.1/1.1/07-stu-fizz-buzz/solved/FizzBuzz/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.1/07-stu-fizz-buzz/starter/FizzBuzz/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.1/03-we-hello-and-add/solved/HelloAndAdd/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.1/08-stu-prime-finder/solved/PrimeFinder/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.1/08-stu-prime-finder/starter/PrimeFinder/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.1/09-stu-method-practice/solved/MethodPractice/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.1/09-stu-method-practice/starter/MethodPractice/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.1/04-we-debugging-practice/solved/DebuggingPractice/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.1/02-stu-a-postcard-from-me/solved/APostcardFromMe/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.1/05-stu-rectangular-paving-company/solved/RectPavingCompany/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.1/05-stu-rectangular-paving-company/starter/RectPavingCompany/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.2/03-we-lion-class/solved/LionClass/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.2/03-we-lion-class/starter/LionClass/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.2/06-we-method-overloading/solved/MethodOverloading/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.2/05-stu-simple-calculator- done/solved/SimpleCalculator/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.2/05-stu-simple-calculator- done/starter/SimpleCalculator/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.2/07-stu-refactored-calculator-done/solved/RefactoredCalculator/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.2/07-stu-refactored-calculator-done/starter/RefactoredCalculator/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.3/05-we-inheritance/solved/Inheritance/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.3/05-we-inheritance/starter/Inheritance/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.3/02-stu-userio-interface/solved/UserIO/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.3/02-stu-userio-interface/starter/UserIO/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.3/04-stu-composition-home/solved/CompositionHome/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.3/06-stu-shapes-perimeters/solved/ShapesPerimeters/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.3/06-stu-shapes-perimeters/starter/ShapesPerimeters/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.3/03-we-composition-account/solved/Composition/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.3/03-we-composition-account/starter/Composition/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.3/01-we-interface-declaration/solved/Interfaces/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.4/03-we-tv-tdd/solved/Tv-Tdd/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.4/09-stu-using-maps/solved/UsingMaps/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.4/09-stu-using-maps/starter/UsingMaps/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.4/07-stu-using-lists/solved/UsingLists/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.4/07-stu-using-lists/starter/UsingLists/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.4/04-stu-sumarrays-tdd/solved/SumArrays/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.4/10-stu-largest-cities/solved/LargestCities/pom.xml" />
+        <option value="$PROJECT_DIR$/1.1/1.4/02-stu-calculator-test/solved/CalculatorTest/pom.xml" />
+        <option value="$PROJECT_DIR$/2.1/02-we-student-service/solved/studentservice/pom.xml" />
+        <option value="$PROJECT_DIR$/2.2/tvshows/pom.xml" />
+        <option value="$PROJECT_DIR$/2.2/webService/pom.xml" />
+        <option value="$PROJECT_DIR$/2.2/02-we-echo-service/solved/echo-service/pom.xml" />
+        <option value="$PROJECT_DIR$/2.2/03-we-record-store/solved/recordstore/pom.xml" />
+        <option value="$PROJECT_DIR$/2.2/03-we-record-store/starter/recordstore/pom.xml" />
+        <option value="$PROJECT_DIR$/2.2/menuItems-important/pom.xml" />
+        <option value="$PROJECT_DIR$/2.2/04-stu-web-service-build/solved/WebServiceBuild/pom.xml" />
+        <option value="$PROJECT_DIR$/2.2/01-we-mockmvc-record-store/solved/recordstore/pom.xml" />
+        <option value="$PROJECT_DIR$/2.2/01-we-mockmvc-record-store/starter/recordstore/pom.xml" />
+        <option value="$PROJECT_DIR$/Module2/hello/hello/pom.xml" />
+        <option value="$PROJECT_DIR$/Module2/medal/pom.xml" />
+        <option value="$PROJECT_DIR$/Module2/echoService/pom.xml" />
+        <option value="$PROJECT_DIR$/Module2/studentservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Module2/04-we-using-postman/starter/dating-app/pom.xml" />
+        <option value="$PROJECT_DIR$/InClassAssignment/IdeaProjects/1.3/CompositionHome/pom.xml" />
+        <option value="$PROJECT_DIR$/InClassAssignment/IdeaProjects/1.3/developer-inheritance-done review/pom.xml" />
+        <option value="$PROJECT_DIR$/InClassAssignment/IdeaProjects/1.4/tv-test/pom.xml" />
+        <option value="$PROJECT_DIR$/InClassAssignment/IdeaProjects/1.4/SumArrays/pom.xml" />
+        <option value="$PROJECT_DIR$/InClassAssignment/IdeaProjects/1.4/ListOperator/pom.xml" />
+        <option value="$PROJECT_DIR$/InClassAssignment/IdeaProjects/1.4/my-first-test/pom.xml" />
+        <option value="$PROJECT_DIR$/InClassAssignment/IdeaProjects/1.4/CalculatorObject/pom.xml" />
+        <option value="$PROJECT_DIR$/InClassAssignment/IdeaProjects/module1/1.1/hello-world/pom.xml" />
+        <option value="$PROJECT_DIR$/InClassAssignment/IdeaProjects/module1/1.2/02-student-class-done/pom.xml" />
+        <option value="$PROJECT_DIR$/InClassAssignment/IdeaProjects/module1/1.3/starting-with-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/InClassAssignment/IdeaProjects/module1/Debugging/pom.xml" />
+        <option value="$PROJECT_DIR$/InClassAssignment/IdeaProjects/module1/control-program/pom.xml" />
+        <option value="$PROJECT_DIR$/M1-Challenge-Le-Hoa/RPGInheritance/pom.xml" />
+        <option value="$PROJECT_DIR$/M1-Challenge-Le-Hoa/CalculatorObject/pom.xml" />
+        <option value="$PROJECT_DIR$/M1-Challenge-Le-Hoa/ConverterInterface/pom.xml" />
+        <option value="$PROJECT_DIR$/M1-Challenge-Le-Hoa/CustomerComposition/pom.xml" />
+        <option value="$PROJECT_DIR$/M1-Challenge-Le-Hoa/IceCreamClassDesign/pom.xml" />
+        <option value="$PROJECT_DIR$/2.2/EightBall-Quote-Word/webService/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

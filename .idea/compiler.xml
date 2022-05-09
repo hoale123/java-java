@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="PrimeFinder" />
+        <module name="MethodOverloading" />
+        <module name="UserIO (1)" />
+        <module name="RectPavingCompany" />
+        <module name="Inheritance" />
+        <module name="Calculator (2)" />
+        <module name="RectPavingCompany (1)" />
+        <module name="LionClass" />
+        <module name="ListOperator" />
+        <module name="recordstore" />
+        <module name="webService" />
+        <module name="ShapesPerimeters (1)" />
+        <module name="control-program" />
+        <module name="UsingMaps (1)" />
+        <module name="DebuggingPractice" />
+        <module name="CalculatorObject" />
+        <module name="UsingLists" />
+        <module name="ShapesPerimeters" />
+        <module name="tv-test" />
+        <module name="IceCreamClassDesign" />
+        <module name="developer-inheritance" />
+        <module name="Calculator (1)" />
+        <module name="MethodPractice" />
+        <module name="UsingLists (1)" />
+        <module name="studentservice" />
+        <module name="RPGInheritance" />
+        <module name="HelloAndAdd" />
+        <module name="recordstore (3)" />
+        <module name="Inheritance (1)" />
+        <module name="CustomerComposition" />
+        <module name="UserIO" />
+        <module name="SumArrays" />
+        <module name="Tv-Tdd" />
+        <module name="LargestCities" />
+        <module name="UsingMaps" />
+        <module name="hello-world" />
+        <module name="my-first-test" />
+        <module name="FizzBuzz (1)" />
+        <module name="FizzBuzz" />
+        <module name="starting-with-interface" />
+        <module name="CalculatorTest" />
+        <module name="composition" />
+        <module name="Calculator" />
+        <module name="MethodPractice (1)" />
+        <module name="CalculatorObject (1)" />
+        <module name="recordstore (2)" />
+        <module name="recordstore (1)" />
+        <module name="tvshows" />
+        <module name="interfaces" />
+        <module name="Debugging" />
+        <module name="menuItems" />
+        <module name="Calculator (3)" />
+        <module name="APostcardFromMe" />
+        <module name="CompositionHome" />
+        <module name="WebServiceBuild" />
+        <module name="SumArrays (1)" />
+        <module name="echo-service" />
+        <module name="student-class" />
+        <module name="PrimeFinder (1)" />
+        <module name="composition (1)" />
+        <module name="ConverterInterface (1)" />
+        <module name="CompositionHome (1)" />
+        <module name="LionClass (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="APostcardFromMe" target="1.8" />
+      <module name="Calculator" target="1.8" />
+      <module name="Calculator (1)" target="1.8" />
+      <module name="Calculator (2)" target="1.8" />
+      <module name="Calculator (3)" target="1.8" />
+      <module name="CalculatorObject" target="1.8" />
+      <module name="CalculatorObject (1)" target="1.8" />
+      <module name="CalculatorTest" target="1.8" />
+      <module name="composition" target="1.8" />
+      <module name="composition (1)" target="1.8" />
+      <module name="CompositionHome" target="1.8" />
+      <module name="CompositionHome (1)" target="1.8" />
+      <module name="control-program" target="1.8" />
+      <module name="ConverterInterface" target="1.8" />
+      <module name="ConverterInterface (1)" target="1.8" />
+      <module name="CustomerComposition" target="1.8" />
+      <module name="dating-app" target="1.8" />
+      <module name="Debugging" target="1.8" />
+      <module name="DebuggingPractice" target="1.8" />
+      <module name="developer-inheritance" target="1.8" />
+      <module name="echo-service" target="1.8" />
+      <module name="echoService" target="1.8" />
+      <module name="FizzBuzz" target="1.8" />
+      <module name="FizzBuzz (1)" target="1.8" />
+      <module name="hello" target="1.8" />
+      <module name="hello-world" target="1.8" />
+      <module name="HelloAndAdd" target="1.8" />
+      <module name="IceCreamClassDesign" target="1.8" />
+      <module name="Inheritance" target="1.8" />
+      <module name="Inheritance (1)" target="1.8" />
+      <module name="interfaces" target="1.8" />
+      <module name="LargestCities" target="1.8" />
+      <module name="LionClass" target="1.8" />
+      <module name="LionClass (1)" target="1.8" />
+      <module name="ListOperator" target="1.8" />
+      <module name="medal" target="1.8" />
+      <module name="menuItems" target="1.8" />
+      <module name="MethodOverloading" target="1.8" />
+      <module name="MethodPractice" target="1.8" />
+      <module name="MethodPractice (1)" target="1.8" />
+      <module name="my-first-test" target="1.8" />
+      <module name="PrimeFinder" target="1.8" />
+      <module name="PrimeFinder (1)" target="1.8" />
+      <module name="recordstore" target="1.8" />
+      <module name="recordstore (1)" target="1.8" />
+      <module name="recordstore (2)" target="1.8" />
+      <module name="recordstore (3)" target="1.8" />
+      <module name="RectPavingCompany" target="1.8" />
+      <module name="RectPavingCompany (1)" target="1.8" />
+      <module name="RPGInheritance" target="1.8" />
+      <module name="ShapesPerimeters" target="1.8" />
+      <module name="ShapesPerimeters (1)" target="1.8" />
+      <module name="starting-with-interface" target="1.8" />
+      <module name="student-class" target="1.8" />
+      <module name="studentservice" target="1.8" />
+      <module name="studentservice (1)" target="1.8" />
+      <module name="SumArrays" target="1.8" />
+      <module name="SumArrays (1)" target="1.8" />
+      <module name="Tv-Tdd" target="1.8" />
+      <module name="tv-test" target="1.8" />
+      <module name="tvshows" target="1.8" />
+      <module name="UserIO" target="1.8" />
+      <module name="UserIO (1)" target="1.8" />
+      <module name="UsingLists" target="1.8" />
+      <module name="UsingLists (1)" target="1.8" />
+      <module name="UsingMaps" target="1.8" />
+      <module name="UsingMaps (1)" target="1.8" />
+      <module name="webService" target="1.8" />
+      <module name="WebServiceBuild" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="WebServiceBuild" options="-parameters" />
+      <module name="dating-app" options="-parameters" />
+      <module name="echo-service" options="-parameters" />
+      <module name="echoService" options="-parameters" />
+      <module name="hello" options="-parameters" />
+      <module name="menuItems" options="-parameters" />
+      <module name="recordstore" options="-parameters" />
+      <module name="recordstore (1)" options="-parameters" />
+      <module name="recordstore (2)" options="-parameters" />
+      <module name="recordstore (3)" options="-parameters" />
+      <module name="studentservice" options="-parameters" />
+      <module name="studentservice (1)" options="-parameters" />
+      <module name="tvshows" options="-parameters" />
+      <module name="webService" options="-parameters" />
+    </option>
+  </component>
+</project>

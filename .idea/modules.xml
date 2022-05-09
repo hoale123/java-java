@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.1/02-stu-a-postcard-from-me/solved/APostcardFromMe/APostcardFromMe.iml" filepath="$PROJECT_DIR$/1.1/1.1/02-stu-a-postcard-from-me/solved/APostcardFromMe/APostcardFromMe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.2/05-stu-simple-calculator- done/solved/SimpleCalculator/Calculator.iml" filepath="$PROJECT_DIR$/1.1/1.2/05-stu-simple-calculator- done/solved/SimpleCalculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.2/05-stu-simple-calculator- done/starter/SimpleCalculator/Calculator (1).iml" filepath="$PROJECT_DIR$/1.1/1.2/05-stu-simple-calculator- done/starter/SimpleCalculator/Calculator (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.2/07-stu-refactored-calculator-done/solved/RefactoredCalculator/Calculator (2).iml" filepath="$PROJECT_DIR$/1.1/1.2/07-stu-refactored-calculator-done/solved/RefactoredCalculator/Calculator (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.2/07-stu-refactored-calculator-done/starter/RefactoredCalculator/Calculator (3).iml" filepath="$PROJECT_DIR$/1.1/1.2/07-stu-refactored-calculator-done/starter/RefactoredCalculator/Calculator (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/InClassAssignment/IdeaProjects/1.4/CalculatorObject/CalculatorObject.iml" filepath="$PROJECT_DIR$/InClassAssignment/IdeaProjects/1.4/CalculatorObject/CalculatorObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1-Challenge-Le-Hoa/CalculatorObject/CalculatorObject (1).iml" filepath="$PROJECT_DIR$/M1-Challenge-Le-Hoa/CalculatorObject/CalculatorObject (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.4/02-stu-calculator-test/solved/CalculatorTest/CalculatorTest.iml" filepath="$PROJECT_DIR$/1.1/1.4/02-stu-calculator-test/solved/CalculatorTest/CalculatorTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.3/04-stu-composition-home/solved/CompositionHome/CompositionHome.iml" filepath="$PROJECT_DIR$/1.1/1.3/04-stu-composition-home/solved/CompositionHome/CompositionHome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InClassAssignment/IdeaProjects/1.3/CompositionHome/CompositionHome (1).iml" filepath="$PROJECT_DIR$/InClassAssignment/IdeaProjects/1.3/CompositionHome/CompositionHome (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1-Challenge-Le-Hoa/ConverterInterface/ConverterInterface (1).iml" filepath="$PROJECT_DIR$/M1-Challenge-Le-Hoa/ConverterInterface/ConverterInterface (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1-Challenge-Le-Hoa/CustomerComposition/CustomerComposition.iml" filepath="$PROJECT_DIR$/M1-Challenge-Le-Hoa/CustomerComposition/CustomerComposition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InClassAssignment/IdeaProjects/module1/Debugging/Debugging.iml" filepath="$PROJECT_DIR$/InClassAssignment/IdeaProjects/module1/Debugging/Debugging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.1/04-we-debugging-practice/solved/DebuggingPractice/DebuggingPractice.iml" filepath="$PROJECT_DIR$/1.1/1.1/04-we-debugging-practice/solved/DebuggingPractice/DebuggingPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.1/07-stu-fizz-buzz/solved/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/1.1/1.1/07-stu-fizz-buzz/solved/FizzBuzz/FizzBuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.1/07-stu-fizz-buzz/starter/FizzBuzz/FizzBuzz (1).iml" filepath="$PROJECT_DIR$/1.1/1.1/07-stu-fizz-buzz/starter/FizzBuzz/FizzBuzz (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.1/03-we-hello-and-add/solved/HelloAndAdd/HelloAndAdd.iml" filepath="$PROJECT_DIR$/1.1/1.1/03-we-hello-and-add/solved/HelloAndAdd/HelloAndAdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1-Challenge-Le-Hoa/IceCreamClassDesign/IceCreamClassDesign.iml" filepath="$PROJECT_DIR$/M1-Challenge-Le-Hoa/IceCreamClassDesign/IceCreamClassDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.3/05-we-inheritance/solved/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/1.1/1.3/05-we-inheritance/solved/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.3/05-we-inheritance/starter/Inheritance/Inheritance (1).iml" filepath="$PROJECT_DIR$/1.1/1.3/05-we-inheritance/starter/Inheritance/Inheritance (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA BOOTCAMP.iml" filepath="$PROJECT_DIR$/.idea/JAVA BOOTCAMP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.4/10-stu-largest-cities/solved/LargestCities/LargestCities.iml" filepath="$PROJECT_DIR$/1.1/1.4/10-stu-largest-cities/solved/LargestCities/LargestCities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.2/03-we-lion-class/solved/LionClass/LionClass.iml" filepath="$PROJECT_DIR$/1.1/1.2/03-we-lion-class/solved/LionClass/LionClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.2/03-we-lion-class/starter/LionClass/LionClass (1).iml" filepath="$PROJECT_DIR$/1.1/1.2/03-we-lion-class/starter/LionClass/LionClass (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/InClassAssignment/IdeaProjects/1.4/ListOperator/ListOperator.iml" filepath="$PROJECT_DIR$/InClassAssignment/IdeaProjects/1.4/ListOperator/ListOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.2/06-we-method-overloading/solved/MethodOverloading/MethodOverloading.iml" filepath="$PROJECT_DIR$/1.1/1.2/06-we-method-overloading/solved/MethodOverloading/MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.1/09-stu-method-practice/solved/MethodPractice/MethodPractice.iml" filepath="$PROJECT_DIR$/1.1/1.1/09-stu-method-practice/solved/MethodPractice/MethodPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.1/09-stu-method-practice/starter/MethodPractice/MethodPractice (1).iml" filepath="$PROJECT_DIR$/1.1/1.1/09-stu-method-practice/starter/MethodPractice/MethodPractice (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.1/08-stu-prime-finder/solved/PrimeFinder/PrimeFinder.iml" filepath="$PROJECT_DIR$/1.1/1.1/08-stu-prime-finder/solved/PrimeFinder/PrimeFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.1/08-stu-prime-finder/starter/PrimeFinder/PrimeFinder (1).iml" filepath="$PROJECT_DIR$/1.1/1.1/08-stu-prime-finder/starter/PrimeFinder/PrimeFinder (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1-Challenge-Le-Hoa/RPGInheritance/RPGInheritance.iml" filepath="$PROJECT_DIR$/M1-Challenge-Le-Hoa/RPGInheritance/RPGInheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.1/05-stu-rectangular-paving-company/solved/RectPavingCompany/RectPavingCompany.iml" filepath="$PROJECT_DIR$/1.1/1.1/05-stu-rectangular-paving-company/solved/RectPavingCompany/RectPavingCompany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.1/05-stu-rectangular-paving-company/starter/RectPavingCompany/RectPavingCompany (1).iml" filepath="$PROJECT_DIR$/1.1/1.1/05-stu-rectangular-paving-company/starter/RectPavingCompany/RectPavingCompany (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.3/06-stu-shapes-perimeters/solved/ShapesPerimeters/ShapesPerimeters.iml" filepath="$PROJECT_DIR$/1.1/1.3/06-stu-shapes-perimeters/solved/ShapesPerimeters/ShapesPerimeters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.3/06-stu-shapes-perimeters/starter/ShapesPerimeters/ShapesPerimeters (1).iml" filepath="$PROJECT_DIR$/1.1/1.3/06-stu-shapes-perimeters/starter/ShapesPerimeters/ShapesPerimeters (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.4/04-stu-sumarrays-tdd/solved/SumArrays/SumArrays.iml" filepath="$PROJECT_DIR$/1.1/1.4/04-stu-sumarrays-tdd/solved/SumArrays/SumArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InClassAssignment/IdeaProjects/1.4/SumArrays/SumArrays (1).iml" filepath="$PROJECT_DIR$/InClassAssignment/IdeaProjects/1.4/SumArrays/SumArrays (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.4/03-we-tv-tdd/solved/Tv-Tdd/Tv-Tdd.iml" filepath="$PROJECT_DIR$/1.1/1.4/03-we-tv-tdd/solved/Tv-Tdd/Tv-Tdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.3/02-stu-userio-interface/solved/UserIO/UserIO.iml" filepath="$PROJECT_DIR$/1.1/1.3/02-stu-userio-interface/solved/UserIO/UserIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.3/02-stu-userio-interface/starter/UserIO/UserIO (1).iml" filepath="$PROJECT_DIR$/1.1/1.3/02-stu-userio-interface/starter/UserIO/UserIO (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.4/07-stu-using-lists/solved/UsingLists/UsingLists.iml" filepath="$PROJECT_DIR$/1.1/1.4/07-stu-using-lists/solved/UsingLists/UsingLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.4/07-stu-using-lists/starter/UsingLists/UsingLists (1).iml" filepath="$PROJECT_DIR$/1.1/1.4/07-stu-using-lists/starter/UsingLists/UsingLists (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.4/09-stu-using-maps/solved/UsingMaps/UsingMaps.iml" filepath="$PROJECT_DIR$/1.1/1.4/09-stu-using-maps/solved/UsingMaps/UsingMaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.4/09-stu-using-maps/starter/UsingMaps/UsingMaps (1).iml" filepath="$PROJECT_DIR$/1.1/1.4/09-stu-using-maps/starter/UsingMaps/UsingMaps (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.2/04-stu-web-service-build/solved/WebServiceBuild/WebServiceBuild.iml" filepath="$PROJECT_DIR$/2.2/04-stu-web-service-build/solved/WebServiceBuild/WebServiceBuild.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.3/03-we-composition-account/solved/Composition/composition.iml" filepath="$PROJECT_DIR$/1.1/1.3/03-we-composition-account/solved/Composition/composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.3/03-we-composition-account/starter/Composition/composition (1).iml" filepath="$PROJECT_DIR$/1.1/1.3/03-we-composition-account/starter/Composition/composition (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/InClassAssignment/IdeaProjects/module1/control-program/control-program.iml" filepath="$PROJECT_DIR$/InClassAssignment/IdeaProjects/module1/control-program/control-program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InClassAssignment/IdeaProjects/1.3/developer-inheritance-done review/developer-inheritance.iml" filepath="$PROJECT_DIR$/InClassAssignment/IdeaProjects/1.3/developer-inheritance-done review/developer-inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.2/02-we-echo-service/solved/echo-service/echo-service.iml" filepath="$PROJECT_DIR$/2.2/02-we-echo-service/solved/echo-service/echo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InClassAssignment/IdeaProjects/module1/1.1/hello-world/hello-world.iml" filepath="$PROJECT_DIR$/InClassAssignment/IdeaProjects/module1/1.1/hello-world/hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.3/01-we-interface-declaration/solved/Interfaces/interfaces.iml" filepath="$PROJECT_DIR$/1.1/1.3/01-we-interface-declaration/solved/Interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.2/menuItems-important/menuItems.iml" filepath="$PROJECT_DIR$/2.2/menuItems-important/menuItems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InClassAssignment/IdeaProjects/1.4/my-first-test/my-first-test.iml" filepath="$PROJECT_DIR$/InClassAssignment/IdeaProjects/1.4/my-first-test/my-first-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.2/03-we-record-store/solved/recordstore/recordstore.iml" filepath="$PROJECT_DIR$/2.2/03-we-record-store/solved/recordstore/recordstore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.2/03-we-record-store/starter/recordstore/recordstore (1).iml" filepath="$PROJECT_DIR$/2.2/03-we-record-store/starter/recordstore/recordstore (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.2/01-we-mockmvc-record-store/solved/recordstore/recordstore (2).iml" filepath="$PROJECT_DIR$/2.2/01-we-mockmvc-record-store/solved/recordstore/recordstore (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.2/01-we-mockmvc-record-store/starter/recordstore/recordstore (3).iml" filepath="$PROJECT_DIR$/2.2/01-we-mockmvc-record-store/starter/recordstore/recordstore (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/InClassAssignment/IdeaProjects/module1/1.3/starting-with-interface/starting-with-interface.iml" filepath="$PROJECT_DIR$/InClassAssignment/IdeaProjects/module1/1.3/starting-with-interface/starting-with-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InClassAssignment/IdeaProjects/module1/1.2/02-student-class-done/student-class.iml" filepath="$PROJECT_DIR$/InClassAssignment/IdeaProjects/module1/1.2/02-student-class-done/student-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.1/02-we-student-service/solved/studentservice/studentservice.iml" filepath="$PROJECT_DIR$/2.1/02-we-student-service/solved/studentservice/studentservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InClassAssignment/IdeaProjects/1.4/tv-test/tv-test.iml" filepath="$PROJECT_DIR$/InClassAssignment/IdeaProjects/1.4/tv-test/tv-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.2/tvshows/tvshows.iml" filepath="$PROJECT_DIR$/2.2/tvshows/tvshows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.2/EightBall-Quote-Word/webService/webService.iml" filepath="$PROJECT_DIR$/2.2/EightBall-Quote-Word/webService/webService.iml" />
+    </modules>
+  </component>
+</project>
