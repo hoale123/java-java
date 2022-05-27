@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/02-we-rsvp-service-deploy/starter/rsvp-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/03-stu-recipe-service-build-deploy/solved/recipe-java-back-end/recipe-service" vcs="Git" />
+  </component>
+</project>

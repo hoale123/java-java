@@ -1,0 +1,30 @@
+openapi: 3.0.1
+info:
+  title: OpenAPI definition
+  version: v0
+  description: hello world
+servers:
+  - url: http://localhost:8080
+    description: Generated server url
+paths:
+  /echo/{numberToEcho}:
+    get:
+      tags:
+        - echo-controller
+      operationId: echoInt
+      parameters:
+        - name: numberToEcho
+          in: path
+          required: true
+          schema:
+            type: integer
+            format: int32
+      responses:
+        '200':
+          description: OK
+          content:
+            '*/*':
+              schema:
+                type: integer
+                format: int32
+components: {}

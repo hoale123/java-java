@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db5447c8-9a10-4cb7-a8f9-c11b1be80894" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../2.1/04-stu-recipe-service-mockmvc-test-suite.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Calender/src/main/java/com/company/Calender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Calender/src/test/java/com/company/CalenderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RECAP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RECAP/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RECAP/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RECAP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RECAP/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RECAP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RECAP/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RECAP/src/main/java/Cds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RECAP/src/main/java/HarryStylesCDs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RECAP/src/main/java/Recap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RECAP/src/main/java/model/GoogleDocFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RECAP/src/main/java/model/GoogleDriveFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RECAP/src/main/java/model/GoogleSheetsFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.2/.idea/2.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.2/01-we-mockmvc-record-store/.idea/01-we-mockmvc-record-store.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.2/02-we-echo-service/.idea/02-we-echo-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.2/EightBall-Quote-Word/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.3/.idea/2.3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.3/03-we-record-store/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.3/MockMvc 02/.idea/MockMvc 02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/2.5 Full-Stack Java React Deploy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__io_github_classgraph_classgraph_4_8_69.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__io_swagger_core_v3_swagger_annotations_2_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__io_swagger_core_v3_swagger_core_2_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__io_swagger_core_v3_swagger_integration_2_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__io_swagger_core_v3_swagger_models_2_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_46.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_44.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_44.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_assertj_assertj_core_3_18_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_hibernate_hibernate_core_5_3_10_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_29_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_16_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_javassist_javassist_3_23_2_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_javassist_javassist_3_27_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_jboss_jandex_2_2_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_mockito_mockito_core_3_6_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_6_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_objenesis_objenesis_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springdoc_springdoc_openapi_common_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springdoc_springdoc_openapi_ui_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springdoc_springdoc_openapi_webmvc_core_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_spring_aop_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_spring_aop_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_spring_aspects_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_spring_aspects_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_spring_beans_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_spring_beans_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_spring_context_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_spring_context_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_spring_core_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_spring_core_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_spring_expression_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_spring_expression_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_spring_orm_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_spring_orm_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_spring_test_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_spring_test_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_spring_tx_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_spring_tx_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_spring_web_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_spring_web_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_webjars_swagger_ui_3_37_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_webjars_webjars_locator_core_0_46.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/libraries/Maven__org_yaml_snakeyaml_1_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/.idea/Week-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.1-Monday/02-we-mockito-basics/.idea/02-we-mockito-basics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.1-Monday/04-stu-recipe-service-mockmvc-test-suite/.idea/04-stu-recipe-service-mockmvc-test-suite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.1-Monday/Important-mockmvc/03-stu-rsvp-mockmvc-test-suite/.idea/03-stu-rsvp-mockmvc-test-suite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/02-stu-car-lot-jpa-repository/.idea/02-stu-car-lot-jpa-repository.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/02-stu-car-lot-jpa-repository/car-lot/src/main/java/com/company/carlot/controller/CarLotController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/02-stu-car-lot-jpa-repository/car-lot/src/main/java/com/company/carlot/dao/CarLotRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/02-stu-car-lot-jpa-repository/car-lot/src/main/java/com/company/carlot/dto/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/02-stu-car-lot-jpa-repository/car-lot/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/03-stu-coffee-inventory-jpa-repository.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_hibernate_hibernate_core_5_3_11_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_javassist_javassist_3_23_2_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_springframework_spring_aop_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_springframework_spring_aspects_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_springframework_spring_beans_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_springframework_spring_context_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_springframework_spring_core_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_springframework_spring_expression_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_springframework_spring_orm_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_springframework_spring_test_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_springframework_spring_tx_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_springframework_spring_web_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/03-stu-coffee-inventory-jpa-repository/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/CoffeeInventoryJpaRepositoryHoaLe/src/main/java/com/company/CoffeeInventoryJpaRepositoryHoaLe/controller/CoffeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/CoffeeInventoryJpaRepositoryHoaLe/src/main/java/com/company/CoffeeInventoryJpaRepositoryHoaLe/dto/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/CoffeeInventoryJpaRepositoryHoaLe/src/main/java/com/company/CoffeeInventoryJpaRepositoryHoaLe/dto/Roaster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/CoffeeInventoryJpaRepositoryHoaLe/src/main/java/com/company/CoffeeInventoryJpaRepositoryHoaLe/repository/CoffeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/CoffeeInventoryJpaRepositoryHoaLe/src/main/java/com/company/CoffeeInventoryJpaRepositoryHoaLe/repository/RoasterRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/simple-crm-api/src/main/java/com/company/simplecrmapi/SimpleCrmApiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/simple-crm-api/src/main/java/com/company/simplecrmapi/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/simple-crm-api/src/main/java/com/company/simplecrmapi/dto/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/simple-crm-api/src/main/java/com/company/simplecrmapi/dto/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/simple-crm-api/src/main/java/com/company/simplecrmapi/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/simple-crm-api/src/main/java/com/company/simplecrmapi/repository/NoteRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/simple-crm-api/src/test/java/com/company/simplecrmapi/SimpleCrmApiApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/simple-crm-api/src/test/java/com/company/simplecrmapi/repository/CustomerRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.2-Tuesday/simple-crm-api/src/test/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/01-we-service-layer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_44.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_44.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_assertj_assertj_core_3_18_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_29_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_javassist_javassist_3_27_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_jboss_jandex_2_2_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_mockito_mockito_core_3_6_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_6_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_objenesis_objenesis_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_springframework_spring_aop_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_springframework_spring_aspects_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_springframework_spring_beans_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_springframework_spring_context_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_springframework_spring_core_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_springframework_spring_expression_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_springframework_spring_orm_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_springframework_spring_test_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_springframework_spring_tx_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_springframework_spring_web_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/libraries/Maven__org_yaml_snakeyaml_1_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/starter/record-collection/src/main/java/com/company/reccoll/service/ServiceLayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/01-we-service-layer/starter/record-collection/src/main/java/com/company/reccoll/viewmodel/AlbumViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/02-we-mocks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_44.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_44.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_assertj_assertj_core_3_18_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_29_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_javassist_javassist_3_27_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_jboss_jandex_2_2_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_mockito_mockito_core_3_6_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_6_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_objenesis_objenesis_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_springframework_spring_aop_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_springframework_spring_aspects_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_springframework_spring_beans_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_springframework_spring_context_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_springframework_spring_core_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_springframework_spring_expression_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_springframework_spring_orm_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_springframework_spring_test_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_springframework_spring_tx_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_springframework_spring_web_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/libraries/Maven__org_yaml_snakeyaml_1_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_44.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_44.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_assertj_assertj_core_3_18_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_29_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_javassist_javassist_3_27_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_jboss_jandex_2_2_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_mockito_mockito_core_3_6_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_6_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_objenesis_objenesis_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_springframework_spring_aop_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_springframework_spring_aspects_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_springframework_spring_beans_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_springframework_spring_context_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_springframework_spring_core_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_springframework_spring_expression_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_springframework_spring_orm_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_springframework_spring_test_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_springframework_spring_tx_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_springframework_spring_web_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/libraries/Maven__org_yaml_snakeyaml_1_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/solved.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/record-collection/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/record-collection/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/record-collection/src/main/java/com/company/reccoll/RecCollApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/record-collection/src/main/java/com/company/reccoll/model/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/record-collection/src/main/java/com/company/reccoll/model/Artist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/record-collection/src/main/java/com/company/reccoll/model/Label.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/record-collection/src/main/java/com/company/reccoll/model/Track.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/record-collection/src/main/java/com/company/reccoll/repository/AlbumRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/record-collection/src/main/java/com/company/reccoll/repository/ArtistRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/record-collection/src/main/java/com/company/reccoll/repository/LabelRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/record-collection/src/main/java/com/company/reccoll/repository/TrackRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/record-collection/src/main/java/com/company/reccoll/service/ServiceLayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/record-collection/src/main/java/com/company/reccoll/viewmodel/AlbumViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/record-collection/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/record-collection/src/test/java/com/company/reccoll/RecCollApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/record-collection/src/test/java/com/company/reccoll/repository/AlbumRepositoryTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/record-collection/src/test/java/com/company/reccoll/repository/ArtistRepositoryTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/record-collection/src/test/java/com/company/reccoll/repository/LabelRepositoryTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/record-collection/src/test/java/com/company/reccoll/repository/TrackRepositoryTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/record-collection/src/test/java/com/company/reccoll/service/ServiceLayerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/solved/record-collection/src/test/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/starter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/starter/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/starter/.idea/starter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/starter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/starter/record-collection/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/starter/record-collection/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/starter/record-collection/src/main/java/com/company/reccoll/RecCollApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/starter/record-collection/src/main/java/com/company/reccoll/model/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/starter/record-collection/src/main/java/com/company/reccoll/model/Artist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/starter/record-collection/src/main/java/com/company/reccoll/model/Label.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/starter/record-collection/src/main/java/com/company/reccoll/model/Track.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/starter/record-collection/src/main/java/com/company/reccoll/repository/AlbumRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/starter/record-collection/src/main/java/com/company/reccoll/repository/ArtistRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/starter/record-collection/src/main/java/com/company/reccoll/repository/LabelRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/starter/record-collection/src/main/java/com/company/reccoll/repository/TrackRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/starter/record-collection/src/main/java/com/company/reccoll/service/ServiceLayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/starter/record-collection/src/main/java/com/company/reccoll/viewmodel/AlbumViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/starter/record-collection/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/starter/record-collection/src/test/java/com/company/reccoll/RecCollApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/starter/record-collection/src/test/java/com/company/reccoll/repository/AlbumRepositoryTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/starter/record-collection/src/test/java/com/company/reccoll/repository/ArtistRepositoryTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/starter/record-collection/src/test/java/com/company/reccoll/repository/LabelRepositoryTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/starter/record-collection/src/test/java/com/company/reccoll/repository/TrackRepositoryTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/starter/record-collection/src/test/java/com/company/reccoll/service/ServiceLayerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/starter/record-collection/src/test/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/02-we-mocks/starter/record_collection_schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/03-stu-mocks-important/.idea/03-stu-mocks-important.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/03-stu-mocks-important/solved/.idea/solved.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/03-stu-mocks-important/starter/record-collection/src/main/java/com/company/reccoll/controller/RecordStoreController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.3-Wednesday/03-stu-mocks.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.4-Thursday/Customer-Data-Service/src/main/java/com/company/Customer/Data/Service/CorsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.4-Thursday/Customer-Data-Service/src/main/java/com/company/Customer/Data/Service/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.4-Thursday/Customer-Data-Service/src/main/java/com/company/Customer/Data/Service/dto/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week-3/3.4-Thursday/Customer-Data-Service/src/main/java/com/company/Customer/Data/Service/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../hoa-app/src/main/java/com/company/hoaapp/controller/HoaAppController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../hoa-le-random-quote-service/src/main/java/com/company/hoalerandomquoteservice/controllers/RandomQuoteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week-1/1.1" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Week-1/1.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week-1/InClassAssignment" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Week-1/InClassAssignment" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week-2/2.1/3.1-activities.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week-2/2.2/03-we-record-store/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Week-2/2.2/03-we-record-store/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week-2/2.2/EightBall-Quote-Word/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Week-2/2.2/EightBall-Quote-Word/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week-2/2.3/EchoRangeService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Week-2/2.3/EchoRangeService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/03-stu-recipe-service-build-deploy/solved/recipe-java-back-end/recipe-service" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Week-2/2.5 Full-Stack Java React Deploy/03-stu-recipe-service-build-deploy/solved/recipe-java-back-end/recipe-service" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="29a5NPIroGNPYD93Giq6Xa30UN9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="HelloCloudServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.trilogyed.config.HelloCloudServiceApplication" />
+      <module name="config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.trilogyed.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloCloudServiceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db5447c8-9a10-4cb7-a8f9-c11b1be80894" name="Changes" comment="" />
+      <created>1653338316292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653338316292</updated>
+    </task>
+    <servers />
+  </component>
+</project>

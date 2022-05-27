@@ -1,0 +1,203 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x00007ffa13b1633c, pid=12516, tid=12648
+#
+# JRE version: OpenJDK Runtime Environment (18.0.1.1+2) (build 18.0.1.1+2-6)
+# Java VM: OpenJDK 64-Bit Server VM (18.0.1.1+2-6, mixed mode, sharing, tiered, compressed oops, compressed class ptrs, g1 gc, windows-amd64)
+# Problematic frame:
+# C  [ntdll.dll+0x2633c]
+#
+# No core dump will be written. Minidumps are not enabled by default on client versions of Windows
+#
+# If you would like to submit a bug report, please visit:
+#   https://bugreport.java.com/bugreport/crash.jsp
+# The crash happened outside the Java Virtual Machine in native code.
+# See problematic frame for where to report the bug.
+#
+
+---------------  S U M M A R Y ------------
+
+Command Line: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1\lib\idea_rt.jar=61609:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1\bin -Dfile.encoding=UTF-8 com.company.simplecrmapi.SimpleCrmApiApplication
+
+Host: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz, 4 cores, 15G,  Windows 10 , 64 bit Build 19041 (10.0.19041.1682)
+Time: Tue May 10 12:09:09 2022 Eastern Daylight Time elapsed time: 1.136160 seconds (0d 0h 0m 1s)
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x0000021f7f1c7dd0):  JavaThread "main" [_thread_in_native, id=12648, stack(0x0000004e27200000,0x0000004e27300000)]
+
+Stack: [0x0000004e27200000,0x0000004e27300000],  sp=0x0000004e272fcc00,  free space=1011k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+C  [ntdll.dll+0x2633c]
+C  [ntdll.dll+0x25b74]
+C  [ntdll.dll+0x247b1]
+C  [ucrtbase.dll+0xf05b]
+C  [java.dll+0x182b]
+
+Java frames: (J=compiled Java code, j=interpreted, Vv=VM code)
+J 752  java.lang.ClassLoader.defineClass1(Ljava/lang/ClassLoader;Ljava/lang/String;[BIILjava/security/ProtectionDomain;Ljava/lang/String;)Ljava/lang/Class; java.base@18.0.1.1 (0 bytes) @ 0x0000021f0f380063 [0x0000021f0f37ffa0+0x00000000000000c3]
+J 995 c1 java.lang.ClassLoader.defineClass(Ljava/lang/String;[BIILjava/security/ProtectionDomain;)Ljava/lang/Class; java.base@18.0.1.1 (43 bytes) @ 0x0000021f07fdfbdc [0x0000021f07fdf880+0x000000000000035c]
+J 901 c1 java.security.SecureClassLoader.defineClass(Ljava/lang/String;[BIILjava/security/CodeSource;)Ljava/lang/Class; java.base@18.0.1.1 (16 bytes) @ 0x0000021f07fb770c [0x0000021f07fb7640+0x00000000000000cc]
+J 757 c1 jdk.internal.loader.BuiltinClassLoader.defineClass(Ljava/lang/String;Ljdk/internal/loader/Resource;)Ljava/lang/Class; java.base@18.0.1.1 (121 bytes) @ 0x0000021f07f6f874 [0x0000021f07f6e900+0x0000000000000f74]
+J 861 c1 jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(Ljava/lang/String;)Ljava/lang/Class; java.base@18.0.1.1 (64 bytes) @ 0x0000021f07fa05bc [0x0000021f07f9f8e0+0x0000000000000cdc]
+J 471 c1 jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(Ljava/lang/String;Z)Ljava/lang/Class; java.base@18.0.1.1 (143 bytes) @ 0x0000021f07eb47cc [0x0000021f07eb3d40+0x0000000000000a8c]
+J 633 c1 jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(Ljava/lang/String;Z)Ljava/lang/Class; java.base@18.0.1.1 (40 bytes) @ 0x0000021f07f09b44 [0x0000021f07f09960+0x00000000000001e4]
+J 631 c1 java.lang.ClassLoader.loadClass(Ljava/lang/String;)Ljava/lang/Class; java.base@18.0.1.1 (7 bytes) @ 0x0000021f07f090cc [0x0000021f07f08fc0+0x000000000000010c]
+v  ~StubRoutines::call_stub
+j  ch.qos.logback.core.subst.Tokenizer.tokenize()Ljava/util/List;+49
+j  ch.qos.logback.core.subst.NodeToStringTransformer.tokenizeAndParseString(Ljava/lang/String;)Lch/qos/logback/core/subst/Node;+10
+j  ch.qos.logback.core.subst.NodeToStringTransformer.substituteVariable(Ljava/lang/String;Lch/qos/logback/core/spi/PropertyContainer;Lch/qos/logback/core/spi/PropertyContainer;)Ljava/lang/String;+1
+j  ch.qos.logback.core.util.OptionHelper.substVars(Ljava/lang/String;Lch/qos/logback/core/spi/PropertyContainer;Lch/qos/logback/core/spi/PropertyContainer;)Ljava/lang/String;+3
+j  ch.qos.logback.core.util.OptionHelper.substVars(Ljava/lang/String;Lch/qos/logback/core/spi/PropertyContainer;)Ljava/lang/String;+3
+j  org.springframework.boot.logging.logback.DefaultLogbackConfiguration.resolve(Lorg/springframework/boot/logging/logback/LogbackConfigurator;Ljava/lang/String;)Ljava/lang/String;+5
+j  org.springframework.boot.logging.logback.DefaultLogbackConfiguration.defaults(Lorg/springframework/boot/logging/logback/LogbackConfigurator;)V+34
+j  org.springframework.boot.logging.logback.DefaultLogbackConfiguration.apply(Lorg/springframework/boot/logging/logback/LogbackConfigurator;)V+9
+j  org.springframework.boot.logging.logback.LogbackLoggingSystem.loadDefaults(Lorg/springframework/boot/logging/LoggingInitializationContext;Lorg/springframework/boot/logging/LogFile;)V+99
+j  org.springframework.boot.logging.AbstractLoggingSystem.initializeWithConventions(Lorg/springframework/boot/logging/LoggingInitializationContext;Lorg/springframework/boot/logging/LogFile;)V+43
+j  org.springframework.boot.logging.AbstractLoggingSystem.initialize(Lorg/springframework/boot/logging/LoggingInitializationContext;Ljava/lang/String;Lorg/springframework/boot/logging/LogFile;)V+18
+j  org.springframework.boot.logging.logback.LogbackLoggingSystem.initialize(Lorg/springframework/boot/logging/LoggingInitializationContext;Ljava/lang/String;Lorg/springframework/boot/logging/LogFile;)V+20
+j  org.springframework.boot.context.logging.LoggingApplicationListener.initializeSystem(Lorg/springframework/core/env/ConfigurableEnvironment;Lorg/springframework/boot/logging/LoggingSystem;Lorg/springframework/boot/logging/LogFile;)V+37
+j  org.springframework.boot.context.logging.LoggingApplicationListener.initialize(Lorg/springframework/core/env/ConfigurableEnvironment;Ljava/lang/ClassLoader;)V+59
+j  org.springframework.boot.context.logging.LoggingApplicationListener.onApplicationEnvironmentPreparedEvent(Lorg/springframework/boot/context/event/ApplicationEnvironmentPreparedEvent;)V+32
+j  org.springframework.boot.context.logging.LoggingApplicationListener.onApplicationEvent(Lorg/springframework/context/ApplicationEvent;)V+30
+j  org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(Lorg/springframework/context/ApplicationListener;Lorg/springframework/context/ApplicationEvent;)V+2
+j  org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(Lorg/springframework/context/ApplicationListener;Lorg/springframework/context/ApplicationEvent;)V+34
+j  org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(Lorg/springframework/context/ApplicationEvent;Lorg/springframework/core/ResolvableType;)V+83
+j  org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(Lorg/springframework/context/ApplicationEvent;)V+7
+j  org.springframework.boot.context.event.EventPublishingRunListener.environmentPrepared(Lorg/springframework/boot/ConfigurableBootstrapContext;Lorg/springframework/core/env/ConfigurableEnvironment;)V+21
+j  org.springframework.boot.SpringApplicationRunListeners.lambda$environmentPrepared$2(Lorg/springframework/boot/ConfigurableBootstrapContext;Lorg/springframework/core/env/ConfigurableEnvironment;Lorg/springframework/boot/SpringApplicationRunListener;)V+3
+j  org.springframework.boot.SpringApplicationRunListeners$$Lambda$79+0x0000000800c99778.accept(Ljava/lang/Object;)V+12
+j  java.util.ArrayList.forEach(Ljava/util/function/Consumer;)V+46 java.base@18.0.1.1
+j  org.springframework.boot.SpringApplicationRunListeners.doWithListeners(Ljava/lang/String;Ljava/util/function/Consumer;Ljava/util/function/Consumer;)V+17
+j  org.springframework.boot.SpringApplicationRunListeners.doWithListeners(Ljava/lang/String;Ljava/util/function/Consumer;)V+4
+j  org.springframework.boot.SpringApplicationRunListeners.environmentPrepared(Lorg/springframework/boot/ConfigurableBootstrapContext;Lorg/springframework/core/env/ConfigurableEnvironment;)V+10
+j  org.springframework.boot.SpringApplication.prepareEnvironment(Lorg/springframework/boot/SpringApplicationRunListeners;Lorg/springframework/boot/DefaultBootstrapContext;Lorg/springframework/boot/ApplicationArguments;)Lorg/springframework/core/env/ConfigurableEnvironment;+27
+j  org.springframework.boot.SpringApplication.run([Ljava/lang/String;)Lorg/springframework/context/ConfigurableApplicationContext;+52
+j  org.springframework.boot.SpringApplication.run([Ljava/lang/Class;[Ljava/lang/String;)Lorg/springframework/context/ConfigurableApplicationContext;+9
+j  org.springframework.boot.SpringApplication.run(Ljava/lang/Class;[Ljava/lang/String;)Lorg/springframework/context/ConfigurableApplicationContext;+9
+j  com.company.simplecrmapi.SimpleCrmApiApplication.main([Ljava/lang/String;)V+3
+v  ~StubRoutines::call_stub
+
+siginfo: EXCEPTION_ACCESS_VIOLATION (0xc0000005), reading address 0xffffffffffffffff
+
+
+Register to memory mapping:
+
+RIP=0x00007ffa13b1633c ntdll.dll
+RAX=0x0000000000130000 is an unknown value
+RBX=0x0000021f7cf20000 points into unknown readable memory: 0x0000000000000000 | 00 00 00 00 00 00 00 00
+RCX=0x0000000000001313 is an unknown value
+RDX=0x0000000000000013 is an unknown value
+RSP=0x0000004e272fcc00 is pointing into the stack for thread: 0x0000021f7f1c7dd0
+RBP=0x0 is NULL
+RSI=0x0000021f2621f8a0 points into unknown readable memory: 0x4824c04800000002 | 02 00 00 00 48 c0 24 48
+RDI=0x0 is NULL
+R8 =0x0000021f2621fc40 points into unknown readable memory: 0x000000b101000000 | 00 00 00 01 b1 00 00 00
+R9 =0x0000021f2621f8b0 points into unknown readable memory: 0x32000000bebafeca | ca fe ba be 00 00 00 32
+R10=0x0000000000000001 is an unknown value
+R11=0x0000001b98338e56 is an unknown value
+R12=0x0006000000080002 is an unknown value
+R13=0x0 is NULL
+R14=0x0000021f2621fc30 points into unknown readable memory: 0x0700010013001200 | 00 12 00 13 00 01 00 07
+R15=0x000000b101000000 is an unknown value
+
+
+Registers:
+RAX=0x0000000000130000, RBX=0x0000021f7cf20000, RCX=0x0000000000001313, RDX=0x0000000000000013
+RSP=0x0000004e272fcc00, RBP=0x0000000000000000, RSI=0x0000021f2621f8a0, RDI=0x0000000000000000
+R8 =0x0000021f2621fc40, R9 =0x0000021f2621f8b0, R10=0x0000000000000001, R11=0x0000001b98338e56
+R12=0x0006000000080002, R13=0x0000000000000000, R14=0x0000021f2621fc30, R15=0x000000b101000000
+RIP=0x00007ffa13b1633c, EFLAGS=0x0000000000010246
+
+Top of Stack: (sp=0x0000004e272fcc00)
+0x0000004e272fcc00:   0000000000000000 00007ff9c017be69
+0x0000004e272fcc10:   0000021f7f1c6330 0000000000000000
+0x0000004e272fcc20:   0000021f7f1c6330 0000021f7f1c7dd0
+0x0000004e272fcc30:   0000021f00000003 0000021f7f1c7dd0
+0x0000004e272fcc40:   000000007f1c0101 00007ff9bfdc2500
+0x0000004e272fcc50:   0000000000000039 0000021f7ff32380
+0x0000004e272fcc60:   0000004e272fce20 0000021f26755100
+0x0000004e272fcc70:   0000000100d10230 00007ff9c017dbaf
+0x0000004e272fcc80:   0000021f7cf3e970 0000000000000000
+0x0000004e272fcc90:   0000021f7f1c7dd0 0000021f7f1c7dd8
+0x0000004e272fcca0:   0000021f7f1c7dd0 0000004e272fcf30
+0x0000004e272fccb0:   0000021f7f1c7dd0 0000021f2621f8a0
+0x0000004e272fccc0:   0000004e272fcd18 0000021f7f1c7dd0
+0x0000004e272fccd0:   0000000000000186 00007ff9c00a200f
+0x0000004e272fcce0:   0000004e272fcdd0 0000021f7cf3ea28
+0x0000004e272fccf0:   00000000000000d8 0000004e272fdc70 
+
+Instructions: (pc=0x00007ffa13b1633c)
+0x00007ffa13b1623c:   8d 47 20 4d 03 c6 48 8b d7 48 8d 0d b4 a2 0f 00
+0x00007ffa13b1624c:   e8 0f a7 02 00 e8 a6 40 0d 00 44 88 6f 0a 44 88
+0x00007ffa13b1625c:   6f 0f 48 8b f7 48 89 bc 24 b8 00 00 00 0f b7 47
+0x00007ffa13b1626c:   08 48 8b 4c 24 50 48 03 c8 48 89 4c 24 50 66 89
+0x00007ffa13b1627c:   4f 08 48 8b 4c 24 50 48 8b d1 48 03 d2 0f b7 83
+0x00007ffa13b1628c:   8c 00 00 00 66 33 c1 66 89 44 d7 0c e9 e6 fd ff
+0x00007ffa13b1629c:   ff 33 ff 48 89 7c 24 28 48 89 44 24 20 4d 8b c2
+0x00007ffa13b162ac:   48 8b d3 8d 4f 0d e8 05 7c 0e 00 4c 8b 44 24 50
+0x00007ffa13b162bc:   e9 c9 fd ff ff 48 8b 02 48 85 c0 0f 85 c7 00 00
+0x00007ffa13b162cc:   00 8d 41 ff 48 89 84 24 c0 00 00 00 48 89 7c 24
+0x00007ffa13b162dc:   28 89 44 24 20 4d 8b c8 41 b0 01 48 8b cb e8 85
+0x00007ffa13b162ec:   44 fe ff 4d 89 3c 24 4d 89 67 08 f6 46 0a 08 0f
+0x00007ffa13b162fc:   84 9b 00 00 00 48 8b d6 48 8b cb e8 00 8a fe ff
+0x00007ffa13b1630c:   84 c0 0f 85 88 00 00 00 44 0f b7 46 08 41 b1 01
+0x00007ffa13b1631c:   48 8b d6 48 8b cb e8 b1 7f ff ff 33 ff 45 32 ed
+0x00007ffa13b1632c:   44 88 6c 24 48 4d 8d 46 10 4d 8b 38 4d 8b 66 18
+0x00007ffa13b1633c:   49 8b 04 24 4d 8b 4f 08 49 3b c1 0f 85 c1 02 00
+0x00007ffa13b1634c:   00 49 3b c0 0f 85 b8 02 00 00 41 0f b7 46 08 48
+0x00007ffa13b1635c:   29 83 c0 00 00 00 48 8b 93 38 01 00 00 48 85 d2
+0x00007ffa13b1636c:   0f 84 1f 01 00 00 41 0f b7 7e 08 66 0f 1f 84 00
+0x00007ffa13b1637c:   00 00 00 00 8b 4a 08 48 3b f9 0f 83 db 00 00 00
+0x00007ffa13b1638c:   48 8b c7 e9 de 00 00 00 48 8b d0 e9 f4 fd ff ff
+0x00007ffa13b1639c:   0f b6 46 0a a8 04 74 83 0f b7 7e 08 48 c1 e7 04
+0x00007ffa13b163ac:   48 83 ef 20 48 89 bc 24 c8 00 00 00 a8 02 74 12
+0x00007ffa13b163bc:   48 83 ff 04 76 0c 48 83 ef 04 48 89 bc 24 c8 00
+0x00007ffa13b163cc:   00 00 48 8d 4e 20 41 b8 ee fe ee fe 48 8b d7 e8
+0x00007ffa13b163dc:   30 b3 07 00 4c 8b f8 48 3b c7 0f 84 3b ff ff ff
+0x00007ffa13b163ec:   65 48 8b 0c 25 60 00 00 00 48 83 79 18 00 74 23
+0x00007ffa13b163fc:   65 48 8b 0c 25 60 00 00 00 48 8b 51 18 48 8b 52
+0x00007ffa13b1640c:   10 48 83 c2 58 48 8d 0d 28 a1 0f 00 e8 43 a5 02
+0x00007ffa13b1641c:   00 eb 0c 48 8d 0d 26 a1 0f 00 e8 35 a5 02 00 4c
+0x00007ffa13b1642c:   8d 46 20 4d 03 c7 48 8b d6 48 8d 0d c4 a0 0f 00 
+
+
+Stack slot to memory mapping:
+stack at sp + 0 slots: 0x0 is NULL
+stack at sp + 1 slots: 0x00007ff9c017be69 jvm.dll
+stack at sp + 2 slots: 0x0000021f7f1c6330 points into unknown readable memory: 0x0000000000000000 | 00 00 00 00 00 00 00 00
+stack at sp + 3 slots: 0x0 is NULL
+stack at sp + 4 slots: 0x0000021f7f1c6330 points into unknown readable memory: 0x0000000000000000 | 00 00 00 00 00 00 00 00
+stack at sp + 5 slots: 0x0000021f7f1c7dd0 is a thread
+stack at sp + 6 slots: 0x0000021f00000003 points into unknown readable memory: ca 00 00 01 00
+stack at sp + 7 slots: 0x0000021f7f1c7dd0 is a thread
+
+
+Compiled method (n/a)    1236  752     n 0       java.lang.ClassLoader::defineClass1 (native)
+ total in heap  [0x0000021f0f37fe10,0x0000021f0f3802f0] = 1248
+ relocation     [0x0000021f0f37ff68,0x0000021f0f37ffa0] = 56
+ main code      [0x0000021f0f37ffa0,0x0000021f0f3802f0] = 848
+
+[Constant Pool (empty)]
+
+[MachCode]
+[Entry Point]
+  # {method} {0x000000080040a908} 'defineClass1' '(Ljava/lang/ClassLoader;Ljava/lang/String;[BIILjava/security/ProtectionDomain;Ljava/lang/String;)Ljava/lang/Class;' in 'java/lang/ClassLoader'
+  # parm0:    rdx:rdx   = 'java/lang/ClassLoader'
+  # parm1:    r8:r8     = 'java/lang/String'
+  # parm2:    r9:r9     = '[B'
+  # parm3:    rdi       = int
+  # parm4:    rsi       = int
+  # parm5:    rcx:rcx   = 'java/security/ProtectionDomain'
+  # parm6:    [sp+0xa0]   = 'java/lang/String'  (sp of caller)
+  0x0000021f0f37ffa0: 448b 5208 | 49bb 0000 | 0000 0800 | 0000 4d03 | d349 3bc2 | 0f84 0600 
+
+  0x0000021f0f37ffb8: ;   {runtime_call ic_miss_stub}
+  0x0000021f0f37ffb8: 0000 e9c1 | ca53 f890 
+[Verified Entry Point]
+  0x0000021f0f37ffc0: 8984 2400 | 90ff ff55 | 488b ec48 | 81ec 9000 | 0000 4881 | 7d10 0000 | 0000 488d | 4510 480f 
+  0x0000021f0f37ffe0: 4445 1048 | 8944 2440 | 4889 4c24 | 7048 83f9 | 0048 8d44 | 2470 480f | 4444 2470 | 4889 4424 
+  0x0000021f0f380000: 3848 8974 | 2430 4889 | 7c24 284c | 894c 2458 | 4983 f900 | 488d 4424 | 5848 0f44 | 4424 5848 
+  0x0000021f0f380020: 8944 2420 | 4c89 4424 | 5049 83f8 | 004c 8d4c | 2450 4c0f | 444c 2450 | 4889 5424 | 4848 83fa 
+  0x0000021f0f380040: 004c 8d44 | 2448 4c0f | 4444 2448 

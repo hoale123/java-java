@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/01-we-mockmvc-record-store.iml" filepath="$PROJECT_DIR$/.idea/01-we-mockmvc-record-store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solved/recordstore/recordstore.iml" filepath="$PROJECT_DIR$/solved/recordstore/recordstore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/starter/recordstore/recordstore (1).iml" filepath="$PROJECT_DIR$/starter/recordstore/recordstore (1).iml" />
+    </modules>
+  </component>
+</project>

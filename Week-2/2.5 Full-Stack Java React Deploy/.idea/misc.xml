@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/02-we-rsvp-service-deploy/starter/rsvp-service/pom.xml" />
+        <option value="$PROJECT_DIR$/03-stu-recipe-service-build-deploy/solved/recipe-java-back-end/recipe-service/pom.xml" />
+        <option value="$PROJECT_DIR$/03-stu-recipe-service-build-deploy/starter/recipe-java-back-end/recipe-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="openjdk-18" project-jdk-type="JavaSDK" />
+</project>

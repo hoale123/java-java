@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/2.3.iml" filepath="$PROJECT_DIR$/.idea/2.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EchoRangeService/EchoRangeService.iml" filepath="$PROJECT_DIR$/EchoRangeService/EchoRangeService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-stu-month-converter/solved/MonthConverter/MonthConverter.iml" filepath="$PROJECT_DIR$/05-stu-month-converter/solved/MonthConverter/MonthConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-we-record-store/solved/recordstore/recordstore.iml" filepath="$PROJECT_DIR$/02-we-record-store/solved/recordstore/recordstore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-we-record-store/starter/recordstore/recordstore (1).iml" filepath="$PROJECT_DIR$/02-we-record-store/starter/recordstore/recordstore (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-we-record-store/solved/recordstore/recordstore (2).iml" filepath="$PROJECT_DIR$/03-we-record-store/solved/recordstore/recordstore (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-we-record-store/starter/recordstore/recordstore (3).iml" filepath="$PROJECT_DIR$/03-we-record-store/starter/recordstore/recordstore (3).iml" />
+    </modules>
+  </component>
+</project>

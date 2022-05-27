@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/02-stu-car-lot-jpa-repository.iml" filepath="$PROJECT_DIR$/.idea/02-stu-car-lot-jpa-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solved/car-lot/car-lot.iml" filepath="$PROJECT_DIR$/solved/car-lot/car-lot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/car-lot/car-lot (1).iml" filepath="$PROJECT_DIR$/car-lot/car-lot (1).iml" />
+    </modules>
+  </component>
+</project>
